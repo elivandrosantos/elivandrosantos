@@ -2,4 +2,5 @@
 
 Eu sou Elivandro - Entusiasta em desenvolvimento Android.
 
+🛠 My Skills
 [![My Skills](https://skillicons.dev/icons?i=kotlin,python,git,github)](https://skillicons.dev)
