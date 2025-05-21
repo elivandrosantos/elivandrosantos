@@ -1,6 +1,6 @@
 ### [Olá pessoal!](https://github.com/elivandrosantos) 👋
 
-Eu sou Elivandro - Entusiasta em desenvolvimento Android.
+Eu sou Elivandro - Autodidata, curioso, amo programar e desenvolver soluções.
 
 ##### 🛠 My Skills
 [![My Skills](https://skillicons.dev/icons?i=kotlin,python,git,github,linux)](https://skillicons.dev)
