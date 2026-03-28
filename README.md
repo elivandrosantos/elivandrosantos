@@ -5,7 +5,7 @@
 Sou um desenvolvedor de software focado em criar aplicativos de alto desempenho e sistemas escaláveis. Gosto de resolver problemas complexos de negócios conectando o ecossistema mobile a backends robustos.
 
 🚀 **O que eu construo:**
-Recentemente, desenvolvi do zero o **moniLoc**, uma plataforma SaaS End-to-End de telemetria e rastreamento. Atuei em toda a arquitetura, desde o aplicativo Android nativo (MVVM, Coroutines, Background Services) até a segurança e consumo avançado de APIs RESTful (Retrofit) para comunicação com o servidor.
+Recentemente, desenvolvi do zero o **ORDNAX**, uma plataforma SaaS End-to-End de telemetria e rastreamento. Atuei em toda a arquitetura, desde o aplicativo Android nativo (MVVM, Coroutines, Background Services) até a segurança e consumo avançado de APIs RESTful (Retrofit) para comunicação com o servidor.
 
 💡 **Meu foco principal:**
 - Arquitetura limpa e reativa no Android (Kotlin).
