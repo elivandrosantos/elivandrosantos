@@ -1,18 +1,14 @@
-# Olá! 👋 Sou o Elivandro.
+## 🇧🇷 Versão em Português
 
-**Desenvolvedor Android Nativo (Kotlin) | Python | Arquiteto de Soluções**
+# Oi 👋, eu sou o Elivandro\!
 
-Sou um desenvolvedor de software focado em criar aplicativos de alto desempenho e sistemas escaláveis. Gosto de resolver problemas complexos de negócios conectando o ecossistema mobile a backends robustos.
+### Desenvolvedor Android Nativo (Kotlin) | Arquiteto de Soluções | Python
 
-🚀 **O que eu construo:**
-Recentemente, desenvolvi do zero o **ORDNAX**, uma plataforma SaaS End-to-End de telemetria e rastreamento. Atuei em toda a arquitetura, desde o aplicativo Android nativo (MVVM, Coroutines, Background Services) até a segurança e consumo avançado de APIs RESTful (Retrofit) para comunicação com o servidor.
-
-💡 **Meu foco principal:**
-- Arquitetura limpa e reativa no Android (Kotlin).
-- Segurança de dados, autenticação via Tokens e APIs.
-- Visão de produto: entregar soluções que realmente funcionam para o usuário final.
-
-Fique à vontade para explorar meus repositórios abaixo!
+  - 🔭 Atualmente trabalhando no **ORDNAX** (Plataforma SaaS de Telemetria).
+  - 🌱 Aprendendo cada vez mais sobre **Arquiteturas de Microserviços e KMP**.
+  - 💬 Pergunte-me sobre **Android (Kotlin), MVVM, Retrofit e Integração de APIs**.
+  - 📫 Como me encontrar: [**LinkedIn**](https://www.linkedin.com/in/ordnavile) ou [**Email**](mailto:elivandrocsantos@gmail.com).
+  - ⚡ Curiosidade: Gosto de conectar o mundo mobile a backends robustos para criar soluções completas.
 
 ##### 🛠 My Skills
 [![My Skills](https://skillicons.dev/icons?i=kotlin,python,git,github,linux)](https://skillicons.dev)
@@ -20,3 +16,32 @@ Fique à vontade para explorar meus repositórios abaixo!
 ##### 🛠 My Tools :
 
 [![My Tools](https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,sublime&perline=12)](https://skillicons.dev)
+
+<p align="center">
+Feito com amor e aprendendo com amor ❤️
+</p>
+
+-----
+
+## 🇺🇸 English Version
+
+# Hi 👋, I'm Elivandro\!
+
+### Native Android Developer (Kotlin) | Solutions Architect | Python Specialist
+
+  - 🔭 I’m currently working on **ORDNAX** (SaaS Telemetry Platform).
+  - 🌱 I’m currently learning more about **Microservices Architecture and KMP**.
+  - 💬 Ask me about **Android (Kotlin), MVVM, Retrofit, and API Integration**.
+  - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/ordnavile) or [**Email**](mailto:elivandrocsantos@gmail.com).
+  - ⚡ Fun fact: I love bridging the gap between mobile ecosystems and robust backends.
+
+##### 🛠 My Skills
+[![My Skills](https://skillicons.dev/icons?i=kotlin,python,git,github,linux)](https://skillicons.dev)
+
+##### 🛠 My Tools :
+
+[![My Tools](https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,sublime&perline=12)](https://skillicons.dev)
+
+<p align="center">
+Made with love and learning with love ❤️
+</p>
